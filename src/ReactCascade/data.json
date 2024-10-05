@@ -1,0 +1,22 @@
+[
+    {
+      "region": "India",
+      "country_code": "in",
+      "states": [
+        {
+          "name": "gujarat",
+          "code": "hi"
+        }
+      ]
+    },
+    {
+      "region": "United State",
+      "country_code": "ae",
+      "states": [
+        {
+          "name": "rarajastan",
+          "code": "ar"
+        }
+      ]
+    }
+  ]

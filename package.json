@@ -1,0 +1,78 @@
+{
+  "name": "reactfunda",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.12.1",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.3.10",
+    "@reach/router": "^1.3.4",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "create-react-library": "^3.1.1",
+    "date-fns": "^2.22.1",
+    "dateformat": "^4.5.1",
+    "dixit-react-progress-bar": "^1.0.0",
+    "first-dixit-pachage": "^1.0.2",
+    "first-dixit-pachage-01": "^1.0.3",
+    "i18next": "^19.5.1",
+    "i18next-browser-languagedetector": "^5.0.0",
+    "i18next-xhr-backend": "^3.2.2",
+    "jquery": "^3.6.0",
+    "jquery-resizable-columns": "^0.2.3",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.15",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.2",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-filter": "^1.3.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-table2-toolkit": "^2.1.3",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.7.0",
+    "react-image-gallery": "^1.2.4",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-material-toast": "^16.1.7",
+    "react-rotating-text": "^1.4.1",
+    "react-scripts": "4.0.3",
+    "react-select": "^4.3.1",
+    "react-simple-code-editor": "^0.11.0",
+    "styled-components": "^5.3.0",
+    "super-lemon-dixit": "^1.0.1",
+    "super-lemon-stem": "^1.0.4",
+    "tinycolor2": "^1.4.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Dixit",
+  "license": "ISC",
+  "keywords": []
+}

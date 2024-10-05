@@ -1,0 +1,30 @@
+{
+    "resources": {
+        "en": {
+            "translation": {
+                "Example": "Example"
+
+            }
+        },
+        "jap": {
+            "translation": {
+                "Example": "例"
+            }
+        },
+        "hin": {
+            "translation": {
+                "Example": "उदाहरण"
+            }
+        },
+        "ger": {
+            "translation": {
+                "Example": "Beispiel"
+            }
+        },
+        "fre": {
+            "translation": {
+                "Example": "Exemple"
+            }
+        }
+    }
+}
